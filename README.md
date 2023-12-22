@@ -1,1 +1,1 @@
-# Linux-Clipboard-History
+# Linux Clipboard History

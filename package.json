@@ -1,0 +1,18 @@
+{
+  "name": "linux-clipboard-history",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && electron ."
+  },
+  "keywords": [],
+  "author": "aap9002",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/electron": "^1.6.10",
+    "@types/node": "^20.10.5",
+    "electron": "^28.1.0"
+  }
+}
